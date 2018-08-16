@@ -1,0 +1,1672 @@
+fileFormatVersion: 2
+guid: 1a2aa66cc5f5cae4a93540b1fae2dcce
+timeCreated: 1521063190
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 76882_0
+    21300002: 76882_1
+    21300004: 76882_2
+    21300006: 76882_3
+    21300008: 76882_4
+    21300010: 76882_5
+    21300012: 76882_6
+    21300014: 76882_7
+    21300016: 76882_8
+    21300018: 76882_9
+    21300020: 76882_10
+    21300022: 76882_11
+    21300024: 76882_12
+    21300026: 76882_13
+    21300028: 76882_14
+    21300030: 76882_15
+    21300032: 76882_16
+    21300034: 76882_17
+    21300036: 76882_18
+    21300038: 76882_19
+    21300040: 76882_20
+    21300042: 76882_21
+    21300044: 76882_22
+    21300046: 76882_23
+    21300048: 76882_24
+    21300050: 76882_25
+    21300052: 76882_26
+    21300054: 76882_27
+    21300056: 76882_28
+    21300058: 76882_29
+    21300060: 76882_30
+    21300062: 76882_31
+    21300064: 76882_32
+    21300066: 76882_33
+    21300068: 76882_34
+    21300070: 76882_35
+    21300072: 76882_36
+    21300074: 76882_37
+    21300076: 76882_38
+    21300078: 76882_39
+    21300080: 76882_40
+    21300082: 76882_41
+    21300084: 76882_42
+    21300086: 76882_43
+    21300088: 76882_44
+    21300090: 76882_45
+    21300092: 76882_46
+    21300094: 76882_47
+    21300096: 76882_48
+    21300098: 76882_49
+    21300100: 76882_50
+    21300102: 76882_51
+    21300104: 76882_52
+    21300106: 76882_53
+    21300108: 76882_54
+    21300110: 76882_55
+    21300112: 76882_56
+    21300114: 76882_57
+    21300116: 76882_58
+    21300118: 76882_59
+    21300120: 76882_60
+    21300122: 76882_61
+    21300124: 76882_62
+    21300126: 76882_63
+    21300128: 76882_64
+    21300130: 76882_65
+    21300132: 76882_66
+    21300134: 76882_67
+    21300136: 76882_68
+    21300138: 76882_69
+    21300140: 76882_70
+    21300142: 76882_71
+    21300144: 76882_72
+    21300146: 76882_73
+    21300148: 76882_74
+    21300150: 76882_75
+    21300152: 76882_76
+    21300154: 76882_77
+    21300156: 76882_78
+    21300158: 76882_79
+    21300160: 76882_80
+    21300162: 76882_81
+    21300164: 76882_82
+    21300166: 76882_83
+    21300168: 76882_84
+    21300170: 76882_85
+    21300172: 76882_86
+    21300174: 76882_87
+    21300176: 76882_88
+    21300178: 76882_89
+    21300180: 76882_90
+    21300182: 76882_91
+    21300184: 76882_92
+    21300186: 76882_93
+    21300188: 76882_94
+    21300190: 76882_95
+    21300192: 76882_96
+    21300194: 76882_97
+    21300196: 76882_98
+    21300198: 76882_99
+    21300200: 76882_100
+    21300202: 76882_101
+    21300204: 76882_102
+    21300206: 76882_103
+    21300208: 76882_104
+    21300210: 76882_105
+    21300212: 76882_106
+    21300214: 76882_107
+    21300216: 76882_108
+    21300218: 76882_109
+    21300220: 76882_110
+    21300222: 76882_111
+    21300224: 76882_112
+    21300226: 76882_113
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 76882_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 578
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 578
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 44
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 511
+        width: 48
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 511
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 511
+        width: 44
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 511
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 511
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 511
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 511
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 446
+        width: 61
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 446
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 446
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 446
+        width: 90
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 446
+        width: 94
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 446
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 361
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 378
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 378
+        width: 56
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 378
+        width: 52
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 378
+        width: 52
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 378
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 378
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 376
+        width: 62
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 374
+        width: 80
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 374
+        width: 119
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 374
+        width: 121
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_30
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 375
+        width: 112
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 379
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 376
+        width: 87
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 376
+        width: 80
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_34
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 376
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 293
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 293
+        width: 38
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 293
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 69
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 71
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_43
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 224
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 61
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 23
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 55
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 89
+        width: 55
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 89
+        width: 55
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 89
+        width: 58
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_51
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 89
+        width: 72
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 89
+        width: 72
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_53
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 89
+        width: 74
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_54
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 89
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_55
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 89
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_56
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 89
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_57
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 67
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_60
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 65
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_61
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 58
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_62
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 55
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_63
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 60
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_64
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 67
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_66
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 42
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_67
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_68
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 63
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_69
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 56
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_70
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 56
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_71
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 56
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_72
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 45
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_74
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 43
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_75
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_77
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_78
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_79
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 50
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_80
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 36
+        width: 38
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_81
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 52
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_82
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 51
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_83
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 46
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_84
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 44
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_85
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 46
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_86
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 35
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_87
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 30
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_88
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 18
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_89
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 34
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_90
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 35
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_91
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 27
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_92
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 8
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_93
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 11
+        width: 20
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_95
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_96
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_97
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_98
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_99
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_100
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_101
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_102
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_103
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_104
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 8
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_105
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1
+        width: 43
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_106
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 8
+        width: 21
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_107
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1
+        width: 57
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_108
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 9
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_109
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1
+        width: 61
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_110
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 8
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_111
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1
+        width: 72
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_112
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1
+        width: 91
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 76882_113
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3
+        width: 22
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

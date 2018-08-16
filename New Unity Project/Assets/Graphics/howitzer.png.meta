@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: abc2fae6e10c5e84e9c0072e75273d40
+timeCreated: 1524347235
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: howitzer_0
+    21300002: howitzer_1
+    21300004: howitzer_2
+    21300006: howitzer_3
+    21300008: howitzer_4
+    21300010: howitzer_5
+    21300012: howitzer_6
+    21300014: howitzer_7
+    21300016: howitzer_8
+    21300018: howitzer_9
+    21300020: howitzer_10
+    21300022: howitzer_11
+    21300024: howitzer_12
+    21300026: howitzer_13
+    21300028: howitzer_14
+    21300030: howitzer_15
+    21300032: howitzer_16
+    21300034: howitzer_17
+    21300036: howitzer_18
+    21300038: howitzer_19
+    21300040: howitzer_20
+    21300042: howitzer_21
+    21300044: howitzer_22
+    21300046: howitzer_23
+    21300048: howitzer_24
+    21300050: howitzer_25
+    21300052: howitzer_26
+    21300054: howitzer_27
+    21300056: howitzer_28
+    21300058: howitzer_29
+    21300060: howitzer_30
+    21300062: howitzer_31
+    21300064: howitzer_32
+    21300066: howitzer_33
+    21300068: howitzer_34
+    21300070: howitzer_35
+    21300072: howitzer_36
+    21300074: howitzer_37
+    21300076: howitzer_38
+    21300078: howitzer_39
+    21300080: howitzer_40
+    21300082: howitzer_41
+    21300084: howitzer_42
+    21300086: howitzer_43
+    21300088: howitzer_44
+    21300090: howitzer_45
+    21300092: howitzer_46
+    21300094: howitzer_47
+    21300096: howitzer_48
+    21300098: howitzer_49
+    21300100: howitzer_50
+    21300102: howitzer_51
+    21300104: howitzer_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: howitzer_0
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3734
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3655
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3655
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3651
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3651
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_5
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3649
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_6
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 3497
+        width: 132
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_7
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3485
+        width: 168
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_8
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3481
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_9
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3483
+        width: 168
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_10
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3495
+        width: 133
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3220
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3292
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_13
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3190
+        width: 131
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_14
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3183
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_15
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3179
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_16
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 3167
+        width: 131
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_17
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3157
+        width: 131
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_18
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 3156
+        width: 133
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_19
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3171
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 3228
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_21
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 3144
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3157
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_23
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3021
+        width: 142
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_24
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 3022
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_25
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3022
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_26
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 3024
+        width: 149
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_27
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 3021
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2845
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2845
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_30
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2847
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_31
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2845
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_32
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2702
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_33
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2702
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_34
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2702
+        width: 131
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_35
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2700
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_36
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2700
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_37
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2700
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_38
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2521
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_39
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2521
+        width: 132
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_40
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2521
+        width: 149
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_41
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2521
+        width: 159
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_42
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2521
+        width: 166
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_43
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2521
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_44
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2376
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_45
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2382
+        width: 131
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_46
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2382
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_47
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2234
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_48
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2382
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_49
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2382
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_50
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2382
+        width: 203
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_51
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2376
+        width: 251
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: howitzer_52
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2375
+        width: 250
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

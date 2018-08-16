@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 3dd8ff71d0b362e44b96ee5645a28759
+timeCreated: 1522088832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: turret_0
+    21300002: turret_1
+    21300004: turret_2
+    21300006: turret_3
+    21300008: turret_4
+    21300010: turret_5
+    21300012: turret_6
+    21300014: turret_7
+    21300016: turret_8
+    21300018: turret_9
+    21300020: turret_10
+    21300022: turret_11
+    21300024: turret_12
+    21300026: turret_13
+    21300028: turret_14
+    21300030: turret_15
+    21300032: turret_16
+    21300034: turret_17
+    21300036: turret_18
+    21300038: turret_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turret_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55505216, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 465
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 465
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 465
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46881524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 424
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 424
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55311584, y: 0.0000011302807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 424
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5472141, y: 0.004427592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 424
+        width: 26
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5694592, y: -0.0053100586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 424
+        width: 22
+        height: 17
+      alignment: 9
+      pivot: {x: 0.61588913, y: 0.0000017951517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 424
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0.59657425, y: 0.008174016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 424
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.6416423, y: 0.0000076293945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 382
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 382
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 382
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 382
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 382
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 382
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54979324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 374
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

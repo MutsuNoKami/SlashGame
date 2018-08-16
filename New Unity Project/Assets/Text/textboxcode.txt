@@ -1,0 +1,78 @@
+
+    public GameObject textBox;
+    public Text text;
+    public TextAsset textFile;
+    public string[] textLines;
+    public int currentLine;
+    public int endAtLine;
+    public Player player;
+    public bool isActive;
+    public bool stopPlayerMovement;
+
+    // Use this for initialization
+    void Start()
+    {
+        player = FindObjectOfType<Player>();
+
+        if (textFile != null)
+        {
+            textLines = (textFile.text.Split('\n'));
+        }
+
+        if(endAtLine == 0)
+        {
+            endAtLine = textLines.Length - 1;
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        text.text = textLines[currentLine];
+        if (isActive)
+        {
+            EnableTextBox();
+        }
+        if (!isActive)
+        {
+            DisableTextBox();
+        }
+        
+
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            currentLine += 1;
+        }
+        if (currentLine > endAtLine)
+        {
+            textBox.SetActive(false);
+        }
+    }
+    public void EnableTextBox()
+    {
+        textBox.SetActive(true);
+        
+        isActive = true;
+        if (stopPlayerMovement)
+        {
+            player.canMove = false;
+        }
+
+    }
+    public void DisableTextBox()
+    {
+        textBox.SetActive(false);
+        isActive = false;
+        player.canMove = true;
+
+    }
+
+    public void ReloadScript(TextAsset newText)
+    {
+        if (textFile != null)
+        {
+            textLines = new string[1];
+            textLines = (newText.text.Split('\n'));
+        }
+    }
+}

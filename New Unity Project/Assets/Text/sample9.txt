@@ -1,0 +1,2 @@
+You'll respawn at these checkpoints here if you die.
+Make sure you pass them though. You don't want to lose all that progress.

@@ -1,0 +1,3 @@
+Hey, you should pick up that gun down there
+Press left mouse to fire.
+Switch by pressing e

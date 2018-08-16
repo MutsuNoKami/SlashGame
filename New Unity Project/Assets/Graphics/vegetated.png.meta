@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: ded8f2f7a60839c488057506aeae66d4
+timeCreated: 1524349623
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vegetated_0
+    21300002: vegetated_1
+    21300004: vegetated_2
+    21300006: vegetated_3
+    21300008: vegetated_4
+    21300010: vegetated_5
+    21300012: vegetated_6
+    21300014: vegetated_7
+    21300016: vegetated_8
+    21300018: vegetated_9
+    21300020: vegetated_10
+    21300022: vegetated_11
+    21300024: vegetated_12
+    21300026: vegetated_13
+    21300028: vegetated_14
+    21300030: vegetated_15
+    21300032: vegetated_16
+    21300034: vegetated_17
+    21300036: vegetated_18
+    21300038: vegetated_19
+    21300040: vegetated_20
+    21300042: vegetated_21
+    21300044: vegetated_22
+    21300046: vegetated_23
+    21300048: vegetated_24
+    21300050: vegetated_25
+    21300052: vegetated_26
+    21300054: vegetated_27
+    21300056: vegetated_28
+    21300058: vegetated_29
+    21300060: vegetated_30
+    21300062: vegetated_31
+    21300064: vegetated_32
+    21300066: vegetated_33
+    21300068: vegetated_34
+    21300070: vegetated_35
+    21300072: vegetated_36
+    21300074: vegetated_37
+    21300076: vegetated_38
+    21300078: vegetated_39
+    21300080: vegetated_40
+    21300082: vegetated_41
+    21300084: vegetated_42
+    21300086: vegetated_43
+    21300088: vegetated_44
+    21300090: vegetated_45
+    21300092: vegetated_46
+    21300094: vegetated_47
+    21300096: vegetated_48
+    21300098: vegetated_49
+    21300100: vegetated_50
+    21300102: vegetated_51
+    21300104: vegetated_52
+    21300106: vegetated_53
+    21300108: vegetated_54
+    21300110: vegetated_55
+    21300112: vegetated_56
+    21300114: vegetated_57
+    21300116: vegetated_58
+    21300118: vegetated_59
+    21300120: vegetated_60
+    21300122: vegetated_61
+    21300124: vegetated_62
+    21300126: vegetated_63
+    21300128: vegetated_64
+    21300130: vegetated_65
+    21300132: vegetated_66
+    21300134: vegetated_67
+    21300136: vegetated_68
+    21300138: vegetated_69
+    21300140: vegetated_70
+    21300142: vegetated_71
+    21300144: vegetated_72
+    21300146: vegetated_73
+    21300148: vegetated_74
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3286
+        width: 178
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3285
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3286
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3286
+        width: 169
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3286
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3286
+        width: 212
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 3286
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3286
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 3286
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_9
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 3286
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3286
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3286
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2955
+        width: 326
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2955
+        width: 215
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2955
+        width: 78
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_15
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2955
+        width: 78
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_16
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2955
+        width: 70
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_17
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2954
+        width: 382
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_18
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2954
+        width: 220
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2605
+        width: 320
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2774
+        width: 205
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2629
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2629
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2629
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2629
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_25
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2629
+        width: 182
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_26
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2628
+        width: 205
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_27
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2628
+        width: 225
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2348
+        width: 72
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2348
+        width: 122
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2348
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2348
+        width: 77
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2348
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2348
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_34
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2348
+        width: 46
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_35
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2348
+        width: 59
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_36
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2348
+        width: 59
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_37
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2348
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_38
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2346
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_39
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2346
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_40
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2346
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_41
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2346
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_42
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2347
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2197
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2195
+        width: 216
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2195
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2197
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_47
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2197
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2197
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_49
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2198
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_50
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2198
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_51
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2198
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_52
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2198
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_53
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2197
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_54
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2197
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_55
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2198
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_56
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2198
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2073
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2073
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2073
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2073
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_61
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2073
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2073
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2073
+        width: 106
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2073
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1700
+        width: 370
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1702
+        width: 269
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1701
+        width: 278
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1125
+        width: 396
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_69
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1125
+        width: 430
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 528
+        width: 390
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_71
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 528
+        width: 513
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_72
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 528
+        width: 543
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 577
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetated_74
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 444
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

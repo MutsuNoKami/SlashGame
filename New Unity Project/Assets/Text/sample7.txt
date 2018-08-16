@@ -1,0 +1,3 @@
+This looks pretty high.
+Try holding "S" to crouch and "Space" while crouching
+It should give you enough more momentum.

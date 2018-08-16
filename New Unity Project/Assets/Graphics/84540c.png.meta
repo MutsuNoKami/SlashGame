@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 74da54a3c671ebc409c0a8bcb9274228
+timeCreated: 1524250987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 84540c_0
+    21300002: 84540c_1
+    21300004: 84540c_2
+    21300006: 84540c_3
+    21300008: 84540c_4
+    21300010: 84540c_5
+    21300012: 84540c_6
+    21300014: 84540c_7
+    21300016: 84540c_8
+    21300018: 84540c_9
+    21300020: 84540c_10
+    21300022: 84540c_11
+    21300024: 84540c_12
+    21300026: 84540c_13
+    21300028: 84540c_14
+    21300030: 84540c_15
+    21300032: 84540c_16
+    21300034: 84540c_17
+    21300036: 84540c_18
+    21300038: 84540c_19
+    21300040: 84540c_20
+    21300042: 84540c_21
+    21300044: 84540c_22
+    21300046: 84540c_23
+    21300048: 84540c_24
+    21300050: 84540c_25
+    21300052: 84540c_26
+    21300054: 84540c_27
+    21300056: 84540c_28
+    21300058: 84540c_29
+    21300060: 84540c_30
+    21300062: 84540c_31
+    21300064: 84540c_32
+    21300066: 84540c_33
+    21300068: 84540c_34
+    21300070: 84540c_35
+    21300072: 84540c_36
+    21300074: 84540c_37
+    21300076: 84540c_38
+    21300078: 84540c_39
+    21300080: 84540c_40
+    21300082: 84540c_41
+    21300084: 84540c_42
+    21300086: 84540c_43
+    21300088: 84540c_44
+    21300090: 84540c_45
+    21300092: 84540c_46
+    21300094: 84540c_47
+    21300096: 84540c_48
+    21300098: 84540c_49
+    21300100: 84540c_50
+    21300102: 84540c_51
+    21300104: 84540c_52
+    21300106: 84540c_53
+    21300108: 84540c_54
+    21300110: 84540c_55
+    21300112: 84540c_56
+    21300114: 84540c_57
+    21300116: 84540c_58
+    21300118: 84540c_59
+    21300120: 84540c_60
+    21300122: 84540c_61
+    21300124: 84540c_62
+    21300126: 84540c_63
+    21300128: 84540c_64
+    21300130: 84540c_65
+    21300132: 84540c_66
+    21300134: 84540c_67
+    21300136: 84540c_68
+    21300138: 84540c_69
+    21300140: 84540c_70
+    21300142: 84540c_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 84540c_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1626
+        width: 194
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1826
+        width: 191
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1826
+        width: 191
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1826
+        width: 193
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1826
+        width: 195
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_5
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1826
+        width: 194
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_6
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1826
+        width: 195
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_7
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1826
+        width: 194
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_8
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1826
+        width: 195
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_9
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1826
+        width: 194
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_10
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1825
+        width: 209
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1426
+        width: 195
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1426
+        width: 193
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1426
+        width: 195
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_14
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1426
+        width: 201
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_15
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1426
+        width: 203
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1426
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_17
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1426
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_18
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1426
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_19
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1426
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_20
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1426
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1226
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1226
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1226
+        width: 203
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_24
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1226
+        width: 203
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_25
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_26
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_27
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_28
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_29
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_30
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1226
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1026
+        width: 203
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1026
+        width: 203
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_33
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1026
+        width: 203
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_34
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_36
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_37
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_38
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_39
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_40
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1026
+        width: 203
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 826
+        width: 201
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 826
+        width: 200
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 826
+        width: 202
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_44
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 826
+        width: 202
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_45
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 826
+        width: 202
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_46
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 826
+        width: 202
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_47
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 826
+        width: 197
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_48
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 826
+        width: 160
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_49
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 826
+        width: 160
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 626
+        width: 203
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 423
+        width: 192
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 626
+        width: 193
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_53
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 626
+        width: 192
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 626
+        width: 193
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_55
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 626
+        width: 192
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_56
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 626
+        width: 193
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_57
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 626
+        width: 192
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_58
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 626
+        width: 193
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_59
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 626
+        width: 192
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_60
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 625
+        width: 193
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 193
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 226
+        width: 194
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 226
+        width: 195
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_64
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 222
+        width: 211
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_65
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 225
+        width: 209
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_66
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 222
+        width: 211
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_67
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 222
+        width: 212
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_68
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 222
+        width: 211
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_69
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 222
+        width: 212
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_70
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 222
+        width: 212
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 84540c_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 214
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+That enemy will fire projectiles if you're eye level with him.
+You can crouch to avoid detection
+hold "C" to block the incoming bullets
+or you can press "S" To avoid getting hit
