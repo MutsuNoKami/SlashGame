@@ -1,2 +1,2 @@
 # SlashGame
-This is a game i made for school
+This is a game I made for school
